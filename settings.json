@@ -4,7 +4,7 @@
     "username": "SoloCloudHosting",
 
     "password": "",
-    "type": "ofline"
+    "type": "online"
   },
   "server": {
     "ip": "useradminNo1-MPM0.aternos.me",
